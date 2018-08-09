@@ -1,0 +1,3 @@
+[submodule "capitaine-cursors"]
+	path = capitaine-cursors
+	url = https://github.com/keeferrourke/capitaine-cursors.git
